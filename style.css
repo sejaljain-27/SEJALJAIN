@@ -1,0 +1,52 @@
+#container{
+    height: 225px;
+    width: 250px;
+    position: relative;
+    left:40%;
+    
+   
+
+}
+
+    #saffron{
+    background-color:orangered;
+    height: 50px;
+    width: 250px;
+}
+#white{
+    background-color: white;
+    height: 50px;
+    width: 250px;
+    position: relative;
+}
+#img1{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    position: absolute;
+    left:100px;
+    top:5px;
+}
+#green{
+    background-color: green;
+    height: 50px;
+    width: 250px;
+}
+h2{
+    
+    color: darkslateblue;
+}
+h1{
+    text-transform: uppercase;
+    color:yellowgreen;
+}
+body{
+    background-color: antiquewhite;
+}
+li{
+    font-size: larger;
+}
+img{
+    border-radius: 50%;
+    float: left;
+}
